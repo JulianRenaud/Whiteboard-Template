@@ -1,0 +1,15 @@
+C:\Users\Pearl-Laptop\Desktop\For Fun Repos\Whiteboard-Template\Whiteboard-Template\bin\Debug\net6.0\Whiteboard-Template.exe
+C:\Users\Pearl-Laptop\Desktop\For Fun Repos\Whiteboard-Template\Whiteboard-Template\bin\Debug\net6.0\Whiteboard-Template.deps.json
+C:\Users\Pearl-Laptop\Desktop\For Fun Repos\Whiteboard-Template\Whiteboard-Template\bin\Debug\net6.0\Whiteboard-Template.runtimeconfig.json
+C:\Users\Pearl-Laptop\Desktop\For Fun Repos\Whiteboard-Template\Whiteboard-Template\bin\Debug\net6.0\Whiteboard-Template.dll
+C:\Users\Pearl-Laptop\Desktop\For Fun Repos\Whiteboard-Template\Whiteboard-Template\bin\Debug\net6.0\Whiteboard-Template.pdb
+C:\Users\Pearl-Laptop\Desktop\For Fun Repos\Whiteboard-Template\Whiteboard-Template\obj\Debug\net6.0\Whiteboard-Template.csproj.AssemblyReference.cache
+C:\Users\Pearl-Laptop\Desktop\For Fun Repos\Whiteboard-Template\Whiteboard-Template\obj\Debug\net6.0\Whiteboard-Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pearl-Laptop\Desktop\For Fun Repos\Whiteboard-Template\Whiteboard-Template\obj\Debug\net6.0\Whiteboard-Template.AssemblyInfoInputs.cache
+C:\Users\Pearl-Laptop\Desktop\For Fun Repos\Whiteboard-Template\Whiteboard-Template\obj\Debug\net6.0\Whiteboard-Template.AssemblyInfo.cs
+C:\Users\Pearl-Laptop\Desktop\For Fun Repos\Whiteboard-Template\Whiteboard-Template\obj\Debug\net6.0\Whiteboard-Template.csproj.CoreCompileInputs.cache
+C:\Users\Pearl-Laptop\Desktop\For Fun Repos\Whiteboard-Template\Whiteboard-Template\obj\Debug\net6.0\Whiteboard-Template.dll
+C:\Users\Pearl-Laptop\Desktop\For Fun Repos\Whiteboard-Template\Whiteboard-Template\obj\Debug\net6.0\refint\Whiteboard-Template.dll
+C:\Users\Pearl-Laptop\Desktop\For Fun Repos\Whiteboard-Template\Whiteboard-Template\obj\Debug\net6.0\Whiteboard-Template.pdb
+C:\Users\Pearl-Laptop\Desktop\For Fun Repos\Whiteboard-Template\Whiteboard-Template\obj\Debug\net6.0\Whiteboard-Template.genruntimeconfig.cache
+C:\Users\Pearl-Laptop\Desktop\For Fun Repos\Whiteboard-Template\Whiteboard-Template\obj\Debug\net6.0\ref\Whiteboard-Template.dll
