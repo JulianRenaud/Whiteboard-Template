@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pearl-Laptop\\Desktop\\For Fun Repos\\Whiteboard-Template\\Whiteboard-Template\\Whiteboard-Template.csproj",
+      "projectUniqueName": "C:\\Users\\Pearl-Laptop\\Desktop\\For Fun Repos\\Hours-To-Seconds\\Whiteboard-Template\\Whiteboard-Template.csproj",
       "projectName": "Whiteboard-Template",
-      "projectPath": "C:\\Users\\Pearl-Laptop\\Desktop\\For Fun Repos\\Whiteboard-Template\\Whiteboard-Template\\Whiteboard-Template.csproj",
+      "projectPath": "C:\\Users\\Pearl-Laptop\\Desktop\\For Fun Repos\\Hours-To-Seconds\\Whiteboard-Template\\Whiteboard-Template.csproj",
       "packagesPath": "C:\\Users\\Pearl-Laptop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pearl-Laptop\\Desktop\\For Fun Repos\\Whiteboard-Template\\Whiteboard-Template\\obj\\",
+      "outputPath": "C:\\Users\\Pearl-Laptop\\Desktop\\For Fun Repos\\Hours-To-Seconds\\Whiteboard-Template\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pearl-Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",

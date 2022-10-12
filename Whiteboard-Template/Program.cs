@@ -11,8 +11,8 @@ internal class Program
     
     private static void Main(string[] args)
     {
-        Program.tryAgain1 = true;
-        Program.tryAgain2 = true;
+        tryAgain1 = true;
+        tryAgain2 = true;
 
         Intro.IntroM();
 

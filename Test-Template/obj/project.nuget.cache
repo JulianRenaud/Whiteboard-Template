@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y2lr02Fo5+5gUvjIm9i/SRVUS2uo03lHhuKMdb8RJpompNEZu07ygeRMyOpDu1+EKrpdMFkrk1+pU+9RRgGazg==",
+  "dgSpecHash": "b+Cb9OZkRQpD/proeqlbqgOoGrXo/v+kPnWQazUIVKzb3oxbMzf/MioZu8XmVWS68C+fKOB5ImI1l9UPXqxEpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pearl-Laptop\\Desktop\\For Fun Repos\\Whiteboard-Template\\Test-Template\\Test-Template.csproj",
+  "projectFilePath": "C:\\Users\\Pearl-Laptop\\Desktop\\For Fun Repos\\Hours-To-Seconds\\Test-Template\\Test-Template.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pearl-Laptop\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Pearl-Laptop\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
